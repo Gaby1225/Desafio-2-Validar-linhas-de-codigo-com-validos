@@ -1,0 +1,8 @@
+﻿.[<>] - OK
+[<}>] - Inválido
+[<>{}] - OK
+[<{>}] - Inválido
+[<>] - OK
+[<}>] - Inválido
+[<>{}] - OK
+[<{>}] - Inválido
